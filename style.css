@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+    font-size: 6pt;
+    
+    border-bottom: 1px solid black;
+}
